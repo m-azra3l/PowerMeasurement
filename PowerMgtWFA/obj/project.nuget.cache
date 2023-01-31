@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z7axcUstOw9ycXFM6zCnCB93RcH8k6qDFUMoJMeJeYMo3JsYt/a0CXUxAbsDDx3kSQe5X6xFlcqOYD1YvBv8kA==",
+  "dgSpecHash": "EbQcjebvfqUCZnAAhScfQl+8IFLlkjX2zAi+FSDVETtSeunLqZw2dFN4Qz6x6ty3eRb6WgtnSMw+qK4sm+efEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\TechAllureGrandida\\Python\\PowerMeasurement\\PowerMgtWFA\\PowerMgtWFA.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\PowerMeasurement\\PowerMgtWFA\\PowerMgtWFA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\winforms.datavisualization\\1.7.0\\winforms.datavisualization.1.7.0.nupkg.sha512"
   ],

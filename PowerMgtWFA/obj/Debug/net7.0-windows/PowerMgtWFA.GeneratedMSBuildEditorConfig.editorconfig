@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PowerMgtWFA
-build_property.ProjectDir = C:\Users\DELL\Documents\GitHub\TechAllureGrandida\Python\PowerMeasurement\PowerMgtWFA\
+build_property.ProjectDir = C:\Users\DELL\Documents\GitHub\PowerMeasurement\PowerMgtWFA\
